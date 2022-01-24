@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">TippingPoint</string>
+    <string name="bill_amount">Bill</string>
+    <string name="tip_percentage_hint">Tip (%)</string>
+    <string name="bill_amount_hint">Enter bill amount</string>
+    <string name="total_tip">Tip $%s</string>
+    <string name="total_amount">Total $%s</string>
+
+    <string name="default_tip_percentage" translatable="false">15</string>
+    <string name="default_bill_amount" translatable="false">0</string>
 </resources>

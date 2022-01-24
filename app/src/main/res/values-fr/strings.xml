@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TippingPoint</string>
+    <string name="bill_amount">Facture</string>
+    <string name="tip_percentage_hint">Pourboire (%)</string>
+    <string name="bill_amount_hint">Entrez lemontantdela facture</string>
+    <string name="total_tip">Pourboire $%s</string>
+    <string name="total_amount">Le total $%s</string>
+</resources>
